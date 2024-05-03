@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/footprints")(options "")(descr ""))
+  (lib (name "SS14")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SS14")(options "")(descr ""))
+  (lib (name "footprints_coil")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ASPI-0630LR-100M-T15/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "AP3015AKTR-G1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/AP3015AKTR-G1")(options "")(descr ""))
+)
